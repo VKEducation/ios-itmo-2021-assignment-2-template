@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CellularAutomataSimulator",
+        "repositoryURL": "https://github.com/VKEducation/ios-itmo-2021-assignment-1-solution.git",
+        "state": {
+          "branch": null,
+          "revision": "63b05fa09c5fae6745c70d74f89407303c52ba72",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
